@@ -1,7 +1,7 @@
 # Devossian 동아리
 
 <img src="../media/banner.jpg" alt="banner">
-`"코딩을 통한 창의적 혁신, Devossian과 함께!"`
+ `코딩을 통한 창의적 혁신, Devossian과 함께!`
 
 조선대학교 Devossian 동아리는 개발과 소프트웨어에 대한 열정을 가진 학생들이 모여 다양한 프로젝트와 스터디를 진행하는 동아리입니다.
 
